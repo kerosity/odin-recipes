@@ -1,4 +1,12 @@
 body {
-    font-family: Tahoma, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
+ul li {
+    margin-top: 8px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
